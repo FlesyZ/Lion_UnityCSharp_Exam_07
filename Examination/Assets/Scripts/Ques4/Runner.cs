@@ -45,7 +45,7 @@ namespace Q4
 
         public void Stop(float x, float y)
         {
-            speed = Mathf.Clamp(Mathf.Abs(x) + Mathf.Abs(y), 0, 2);
+            speed = Mathf.Clamp(Mathf.Abs(x) + Mathf.Abs(y), 0, 0);
         }
 
         private void OnTriggerEnter(Collider other)
