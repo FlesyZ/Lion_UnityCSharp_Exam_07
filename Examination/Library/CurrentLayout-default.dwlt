@@ -71,7 +71,7 @@ MonoBehaviour:
   m_MinSize: {x: 680, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 37
+  controlID: 112
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 38
+  controlID: 117
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,7 +267,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 39
+  controlID: 118
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -416,20 +416,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\409-01\Desktop\GITHUB\Lion_UnityCSharp_Exam_07\Examination
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 70}
-    m_SelectedIDs: 1a3d0000
-    m_LastClickedID: 15642
-    m_ExpandedIDs: 000000002c3c00001a3d0000003e0000043e0000063e0000a84a000000ca9a3b
+    scrollPos: {x: 0, y: 26}
+    m_SelectedIDs: f6340000
+    m_LastClickedID: 13558
+    m_ExpandedIDs: 00000000ee340000f0340000f2340000f4340000f634000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -457,7 +457,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 1003}
     m_SelectedIDs: 046c0000
     m_LastClickedID: 27652
-    m_ExpandedIDs: ffffffff000000002c3c00001a3d000098470000a84a0000187600002c760000
+    m_ExpandedIDs: 00000000ee340000f0340000f2340000f4340000f6340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -550,7 +550,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 297
+  m_LastVerticalScrollValue: 0
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -580,9 +580,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 029bfdff1e9bfdffbc9bfdffc09bfdffc69bfdffce9bfdffde9bfdffe49bfdff56a7fdff56aefdff90aefdff9cb1fdff60cdfdff58f3fdffa806feff5814feff2616feff68a1feffaca5feffc4a5feff6aa6feffd4a8feff52a9feffdcabfeff64b0feff80b0feff92b0feffaeb0feffc0b0feffd2b0feffe4b0fefffab0feff64bffeff58c4feff6ac4feff7cc4feff52d1feff5cd1feff76d1feff1615ffffc627ffffb24dffffb44dffff784fffff5a56ffff5c56ffffd859ffffc460ffffa263fffffe6dffff9e6effff3070ffff74c0ffff36fbffffca620000047400000e740000daac00001ead000032ad0000
+      m_SelectedIDs: 58350000
+      m_LastClickedID: 13656
+      m_ExpandedIDs: 02faffff6afbffff4635000058350000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -714,7 +714,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.14860168, y: -0.16587989, z: 0.025279265, w: -0.97458917}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
